@@ -6,20 +6,22 @@
 
 `SEMESTRE: 7º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto Eficiência no SUS: Previsão de Faltas em Consultas tem como objetivo utilizar técnicas de aprendizado de máquina para prever a probabilidade de pacientes faltarem a consultas médicas agendadas no Sistema Único de Saúde (SUS). O problema do absenteísmo em consultas públicas gera desperdício de recursos e aumenta o tempo de espera de outros pacientes que necessitam de atendimento. A partir da análise de um dataset público contendo informações sobre consultas médicas, como idade, gênero, data da consulta, envio de SMS de confirmação e histórico do paciente, o projeto busca identificar padrões que indiquem maior probabilidade de ausência.
+
+Com base nesses dados, serão aplicados modelos de classificação preditiva capazes de estimar se um paciente comparecerá ou não à consulta. Os resultados poderão auxiliar gestores de saúde na tomada de decisões, permitindo ações como envio de lembretes direcionados, realocação de vagas e otimização do agendamento de consultas. Dessa forma, o projeto busca contribuir para a melhoria da eficiência do sistema público de saúde, reduzindo filas de espera e garantindo melhor aproveitamento dos recursos disponíveis no SUS.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Gabriel Amorim Santos Maia
+* Daniela Sofia Fernandes de Assis
+* Lucas Brandão Guedes
+* João Gabriel Galdino de Oliveira
+* Tales Hein
+* Guilherme Lanza Japolino
 
 ## Orientador
 
-* Nome completo do professor 1
+* Diego Eduardo (Tutor)
 
 # Planejamento
 
